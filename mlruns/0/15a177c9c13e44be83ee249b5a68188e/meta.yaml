@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/INeuron/Horse/kagglehorse/mlruns/0/15a177c9c13e44be83ee249b5a68188e/artifacts
+end_time: 1696258638366
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 15a177c9c13e44be83ee249b5a68188e
+run_name: mercurial-pig-390
+run_uuid: 15a177c9c13e44be83ee249b5a68188e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1696258632754
+status: 3
+tags: []
+user_id: Svbeh
