@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/INeuron/Horse/kagglehorse/mlruns/0/31fd57f21e6c4bb3ab541eeab324bce3/artifacts
+end_time: 1696259217428
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 31fd57f21e6c4bb3ab541eeab324bce3
+run_name: unruly-rook-315
+run_uuid: 31fd57f21e6c4bb3ab541eeab324bce3
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1696259099489
+status: 3
+tags: []
+user_id: Svbeh

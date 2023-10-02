@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/INeuron/Horse/kagglehorse/mlruns/0/488eace2dfc7485bb55d7a07aaf47f4a/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 488eace2dfc7485bb55d7a07aaf47f4a
+run_name: able-perch-37
+run_uuid: 488eace2dfc7485bb55d7a07aaf47f4a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1696259430702
+status: 1
+tags: []
+user_id: Svbeh

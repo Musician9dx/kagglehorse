@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/INeuron/Horse/kagglehorse/mlruns/0/a66dd864beb6431cb328ac45e3dc4cc2/artifacts
+end_time: 1696258924133
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: a66dd864beb6431cb328ac45e3dc4cc2
+run_name: glamorous-jay-682
+run_uuid: a66dd864beb6431cb328ac45e3dc4cc2
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1696258814107
+status: 3
+tags: []
+user_id: Svbeh
